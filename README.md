@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Cosmic Earth Banner Animated](/Users/yefersonsuescun/.gemini/antigravity-ide/brain/5acbac48-6da1-4e2d-9dbe-c00c21645f9b/cosmic_earth_animated.gif)
+![Cosmic Earth Banner Animated](./cosmic_earth_animated.gif)
 
 ### 🚀 Apasionado por crear aplicaciones web modernas, escalables y de alto impacto.
 
