@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Cosmic Earth Banner Animated](./cosmic_earth_animated.gif)
+![Cosmic Earth Banner Animated](/Users/yefersonsuescun/.gemini/antigravity-ide/brain/5acbac48-6da1-4e2d-9dbe-c00c21645f9b/cosmic_earth_animated.gif)
 
 ### 🚀 Apasionado por crear aplicaciones web modernas, escalables y de alto impacto.
 
@@ -52,12 +52,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=radical&hide_border=true" height="175" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=suescun2025&show_icons=true&theme=radical&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suescun2025&layout=compact&theme=radical&hide_border=true" height="175" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suescun2025&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
