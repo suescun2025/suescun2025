@@ -4,7 +4,7 @@
 
 ![Cosmic Earth Banner Animated](./cosmic_earth_animated.gif)
 
-### 🚀 Apasionado por crear aplicaciones web modernas, escalables y de alto impacto.
+![Full Stack Developer Logo](./fullstack_developer_logo.jpg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://tu-portfolio.com)
