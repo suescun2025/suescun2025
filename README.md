@@ -6,9 +6,9 @@
 
 <img src="./desarrollo_web_snake_light.gif" alt="Desarrollo de Aplicaciones Web" width="550" /><br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suescun-suescun-salazar-ba9824304/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://suescun2025.github.io/portfolio-personal/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suescunyeferson32@gmail.com)
 
 </div>
 
@@ -67,8 +67,8 @@
 
 | Proyecto | Descripción | Tecnologías | Repositorio |
 | :--- | :--- | :--- | :---: |
-| 🛒 **Proyecto Final Full Stack** | Aplicación E-Commerce interactiva con gestión de ordenes, carrito, usuarios y panel de administración. | `React` `Python` `CSS3` | [Ver Proyecto](#) |
-| 💼 **Portfolio Personal** | Plataforma de presentación profesional con diseño responsivo y efectos visuales neón. | `React` `Vite` `CSS3` | [Ver en Vivo](https://suescun2025.github.io/portfolio-personal/) • [Código](https://github.com/suescun2025/portfolio-personal) |
+| 🛒 **Proyecto Final Full Stack** | Aplicación E-Commerce interactiva con gestión de ordenes, carrito, usuarios y panel de administración. |    | [Ver Proyecto](#) |
+| 💼 **Portfolio Personal** | Plataforma de presentación profesional con diseño responsivo y efectos visuales neón. |    | [Ver en Vivo](https://suescun2025.github.io/portfolio-personal/) • [Código](https://github.com/suescun2025/portfolio-personal) |
 
 ---
 
