@@ -67,8 +67,8 @@
 
 | Proyecto | Descripción | Tecnologías | Repositorio |
 | :--- | :--- | :--- | :---: |
-| 🛒 **Proyecto Final Full Stack** | Aplicación E-Commerce interactiva con gestión de ordenes, carrito, usuarios y panel de administración. |    | [Ver Proyecto](#) |
-| 💼 **Portfolio Personal** | Plataforma de presentación profesional con diseño responsivo y efectos visuales neón. |    | [Ver en Vivo](https://suescun2025.github.io/portfolio-personal/) • [Código](https://github.com/suescun2025/portfolio-personal) |
+| 🛒 **Proyecto Final Full Stack** | Aplicación E-Commerce interactiva con gestión de ordenes, carrito, usuarios y panel de administración. | `React` `Python` `CSS3` | [Ver Proyecto](#) |
+| 💼 **Portfolio Personal** | Plataforma de presentación profesional con diseño responsivo y efectos visuales neón. | `React` `Vite` `CSS3` | [Ver en Vivo](https://suescun2025.github.io/portfolio-personal/) • [Código](https://github.com/suescun2025/portfolio-personal) |
 
 ---
 
