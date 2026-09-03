@@ -16,15 +16,28 @@
 
 ## 👨‍💻 Sobre Mí
 
-- 🔭 Actualmente enfocado en el desarrollo de **aplicaciones Full Stack** con React, Python y arquitecturas sólidas.
-- 🛠️ Creación de interfaces modernas, responsivas e interactivas junto a APIs RESTful robustas.
-- 🎓 Apasionado por las mejores prácticas de código, diseño UX/UI y rendimiento web.
-- 💬 Pregúntame sobre **JavaScript, React, Python, desarrollo web y bases de datos**.
-- ⚡ Dato curioso: Me encanta aprender nuevas tecnologías y resolver retos complejos de lógica.
+**Desarrollador Web Full Stack** con sólidas bases en algoritmia, arquitectura de software y programación orientada a objetos. Cuento con formación técnica integral en desarrollo de aplicaciones web de extremo a extremo:
+
+- 🔭 **Desarrollo Full Stack:** Creación de interfaces modernas, reactivas e interactivas junto a arquitecturas de servidor y APIs RESTful robustas.
+- 🎨 **Frontend & UX/UI:** Especializado en **React.js, JavaScript (ES6+), HTML5 semántico y CSS3 moderno** (Flexbox, CSS Grid, diseño responsive mobile-first y animaciones).
+- ⚙️ **Backend & Datos:** Construcción de servidores y lógica de negocio con **Node.js y Python**, gestionando bases de datos relacionales (**PostgreSQL, SQLite**) y no relacionales.
+- 🐧 **Entorno & Buenas Prácticas:** Manejo fluido de entornos **Linux/Unix**, terminal de comandos (Bash), control de versiones colaborativo con **Git/GitHub** y principios de código limpio.
+- ⚡ **Mentalidad:** Apasionado por el aprendizaje continuo, la resolución de retos lógicos complejos y la creación de soluciones escalables.
 
 ---
 
-## 💻 Tech Stack
+## 🎓 Formación & Especialización Técnica
+
+### **Máster en Desarrollo Web Full Stack** — *Conquer Blocks / Conquer Academy*
+Programa técnico intensivo enfocado en el ciclo de vida completo del desarrollo de software:
+* **Fundamentos & Lógica:** Algoritmia, estructuras de datos, diagramas de flujo y pensamiento computacional.
+* **Frontend Moderno:** Maquetación avanzada, JavaScript asíncrono, componentes funcionales, hooks y renderizado con React.
+* **Backend & APIs:** Arquitectura cliente-servidor, diseño e integración de APIs REST, autenticación y manejo de errores.
+* **Bases de Datos & DevOps:** Modelado de esquemas SQL/NoSQL, gestión de repositorios en GitHub y despliegue en producción.
+
+---
+
+## 💻 Tech Stack & Habilidades
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -33,7 +46,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### **Backend**
+### **Backend & APIs**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -44,6 +57,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
@@ -65,15 +79,15 @@
 
 ## 🌟 Proyectos Destacados
 
-| Proyecto | Descripción | Tecnologías | Repositorio |
+| Proyecto | Descripción | Tecnologías | Enlace |
 | :--- | :--- | :--- | :---: |
-| 🛒 **Proyecto Final Full Stack** | Aplicación E-Commerce interactiva con gestión de ordenes, carrito, usuarios y panel de administración. | `React` `Python` `CSS3` | [Ver Proyecto](#) |
-| 💼 **Portfolio Personal** | Plataforma de presentación profesional con diseño responsivo y efectos visuales neón. | `React` `Vite` `CSS3` | [Ver en Vivo](https://suescun2025.github.io/portfolio-personal/) • [Código](https://github.com/suescun2025/portfolio-personal) |
+| 💼 **Portfolio Personal Cyberpunk** | Plataforma interactiva con efectos neón, partículas y diseño responsive. | `React` `Vite` `CSS3` | [Ver en Vivo](https://suescun2025.github.io/portfolio-personal/) • [Código](https://github.com/suescun2025/portfolio-personal) |
+| 🛒 **Proyecto Final Full Stack** | Aplicación web completa con autenticación, catálogo, carrito de compras y API REST. | `React` `Python` `PostgreSQL` | [Ver Repositorio](https://github.com/suescun2025) |
 
 ---
 
 <div align="center">
 
-⭐ *¡Gracias por visitar mi perfil! Si tienes alguna duda o sugerencia, no dudes en conectar.*
+⭐ *¡Gracias por visitar mi perfil! No dudes en contactarme para oportunidades y proyectos.*
 
 </div>
