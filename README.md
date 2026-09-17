@@ -6,7 +6,7 @@
 
 <img src="./desarrollo_web_snake_light.gif" alt="Desarrollo de Aplicaciones Web" width="550" /><br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suescun-suescun-salazar-ba9824304/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeferson-suescun-ba9824304/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://suescun2025.github.io/portfolio-personal/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suescunyeferson32@gmail.com)
 
@@ -81,7 +81,7 @@ Programa técnico intensivo enfocado en el ciclo de vida completo del desarrollo
 
 | Proyecto | Descripción | Tecnologías | Enlace |
 | :--- | :--- | :--- | :---: |
-| 💼 **Portfolio Personal Cyberpunk** | Plataforma interactiva con efectos neón, partículas y diseño responsive. | `React` `Vite` `CSS3` | [Ver en Vivo](https://suescun2025.github.io/portfolio-personal/) • [Código](https://github.com/suescun2025/portfolio-personal) |
+| 🌿 **Portfolio Personal Señorial** | Plataforma interactiva con estética editorial señorial, fondo marrón/verde bosque y React. | `React` `Vite` `CSS3` | [Ver en Vivo](https://suescun2025.github.io/portfolio-personal/) • [Código](https://github.com/suescun2025/portfolio-personal) |
 | 🛒 **Proyecto Final Full Stack** | Aplicación web completa con autenticación, catálogo, carrito de compras y API REST. | `React` `Python` `PostgreSQL` | [Ver Repositorio](https://github.com/suescun2025) |
 
 ---
